@@ -27,3 +27,4 @@ pytestdebug.log
 docs/build
 AUTHORS
 ChangeLog
+.pybuild
