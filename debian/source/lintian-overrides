@@ -1,0 +1,4 @@
+python-ansible-runner source: file-without-copyright-information
+python-ansible-runner source: no-debian-changes
+python-ansible-runner source: source-contains-prebuilt-windows-binary
+python-ansible-runner source: source-package-encodes-python-version
